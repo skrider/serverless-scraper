@@ -1,0 +1,11 @@
+{
+  "name": "serverless-scraper",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "skrider <skrider@berkeley.edu>",
+  "license": "MIT",
+  "packageManager": "yarn@3.6.4",
+  "dependencies": {
+    "vercel": "^32.5.0"
+  }
+}
